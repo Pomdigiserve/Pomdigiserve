@@ -1,4 +1,4 @@
-### Hi there my name is Naetipong Buaphechr This my nickname is : Pom 👋
+### Hi this my name is Naetipong Buaphechr This my nickname is : Pom 👋
 
 <!--
 **Pomdigiserve/Pomdigiserve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
