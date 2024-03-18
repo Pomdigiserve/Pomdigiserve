@@ -7,16 +7,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
 Pomdigiserve/Pomdigiserve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
 [![Pomdigiserve Github Stats](https://github-readme-stats.vercel.app/api?username=Pomdigiserve&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pomdigiserve)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - I'm currently learning
 - l love coding more so switched!
@@ -29,6 +26,6 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Current working in Digiserve Thailand
+Current working in Digiserve of Thailand
 
 -->
