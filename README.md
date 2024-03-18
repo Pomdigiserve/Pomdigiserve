@@ -1,18 +1,22 @@
 ### Hi this my name is Naetipong Buaphechr This my nickname is : Pom 👋
 
-<!--
-**Pomdigiserve/Pomdigiserve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!---
-- :wave: Hi, I’m @Pomdigiserve
-- :eyes: I’m interested in ...
-- :seedling: I’m currently learning ...
-- :revolving_hearts:️ I’m looking to collaborate on ...
-- :mailbox: How to reach me ...
-Tacchinardi20/Tacchinardi20 is a :sparkles: special :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @Pomdigiserve
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+Pomdigiserve/Pomdigiserve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- @Pomdigiserve Github Stats Top Langs
-Here are some ideas to get you started:
+
+
+[![Pomdigiserve Github Stats](https://github-readme-stats.vercel.app/api?username=Pomdigiserve&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pomdigiserve)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - I'm currently learning
 - l love coding more so switched!
